@@ -38,7 +38,7 @@ const Login = () => {
           </div>
 
           <div className="forgot">
-            <a href="#">Забыли пароль?</a>
+            <a href="#!">Забыли пароль?</a>
           </div>
 
           <button disabled={!isValid} className="primary">
